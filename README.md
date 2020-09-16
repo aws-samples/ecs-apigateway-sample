@@ -1,6 +1,6 @@
-## Serverless container-based API with AWS Fargate and Amazon API Gateway
+## Serverless Container-based APIs with Amazon ECS and Amazon API Gateway
 
-This repository contains the artifacts for the AWS blog post ***Serverless container-based API with AWS Fargate and Amazon API Gateway***.
+This repository contains the artifacts for the AWS blog post [Field Notes: Serverless Container-based APIs with Amazon ECS and Amazon API Gateway](https://aws.amazon.com/blogs/architecture/field-notes-serverless-container-based-apis-with-amazon-ecs-and-amazon-api-gateway/).
 
 ## Security
 
