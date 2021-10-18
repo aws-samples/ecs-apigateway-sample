@@ -23,6 +23,7 @@ awsconfig.Auth = {
   userPoolWebClientId: searchParamsList.UserPoolClientID
 }
 Amplify.configure(awsconfig)
+Auth.configure(awsconfig)
 
 var MyPropsMethods = {}
 
