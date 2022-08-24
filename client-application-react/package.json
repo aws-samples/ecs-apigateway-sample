@@ -10,7 +10,7 @@
     "aws-amplify": "^4.3.2",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
-    "react-scripts": "^4.0.2"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
